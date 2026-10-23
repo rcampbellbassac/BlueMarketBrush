@@ -1,0 +1,6 @@
+{"name": "Blue Market Brush", "slug": "BlueMarketBrush", "ink": "a", "body": "ບ",
+ "sign_text": "ບ້ານພັດທະນາ … ຫຼັກ 35",
+ "notes": "Broad, friendly market-sign brush: soft bowls, bulbous loop heads, slightly uneven widths. Ink re-joined across the overhead wire (segment.py --vclose 15 --close 9).",
+ "labels": {"ບ": [0], "າ": [1], "ນ": [2], "ພ": [3], "ັ": [4], "ດ": [6], "ອ": [12], "3": [8], "5": [10]},
+ "nib": {"shape": "round"}, "smooth": 3.5,
+ "effects": [{"op": "wobble", "amp": 5, "wave": 220}]}

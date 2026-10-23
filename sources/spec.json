@@ -1,0 +1,37 @@
+{
+ "name": "Blue Market Brush",
+ "slug": "BlueMarketBrush",
+ "version": "0.010",
+ "bases": {
+  "lao": "lao-looped",
+  "thai": "thai-looped",
+  "khmer": "khmer",
+  "latin": "latin"
+ },
+ "wght": 100,
+ "wdth": 69.0,
+ "scale": 0.9981,
+ "recipe": [
+  {
+   "op": "wobble",
+   "amp": 5,
+   "wave": 220
+  },
+  {
+   "op": "nib",
+   "shape": "round",
+   "w": 39.9,
+   "min_hole": 1200
+  }
+ ],
+ "fit": {
+  "sign_stem_over_height": 0.1067,
+  "sign_width_over_height": 0.5899,
+  "base_height": 561,
+  "base_stem": 24,
+  "nib_w": 39.9
+ },
+ "sidebearing": 40,
+ "baseline_snap": [],
+ "copyright": "Copyright 2026 Robert Martin Campbell. Lao key letters traced from a hand-painted sign photographed in Laos (2019); other letters derived from the Noto fonts for Lao, Thai, Khmer and Latin (Copyright 2022 The Noto Project Authors)."
+}
